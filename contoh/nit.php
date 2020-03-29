@@ -1,0 +1,6 @@
+<?php
+
+$nama = "azkal \n";
+
+
+ ?>
